@@ -1,6 +1,6 @@
 // Data Structure
 
-// Array - add/push, insert, del, pop
+// Array - add/push, insert, del, pop 
 let names = ["a", "b", "c"];
 console.log(names);
             
